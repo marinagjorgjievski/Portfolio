@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.scroll {
+  background-color: lightcoral;
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.scroll:hover {
+  background-color: rgb(212, 101, 101);
+}
+
+  
